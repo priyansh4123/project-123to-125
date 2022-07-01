@@ -1,0 +1,21 @@
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    color: red;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+.footer{
+    text-align: center;
+    width: 100%;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    position: fixed;
+    bottom: 0;
+    color: aliceblue;
+    font-size: 15px;
+}
+canvas{
+    border: 5px solid indianred;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px violet;
+}
